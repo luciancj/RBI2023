@@ -1,6 +1,6 @@
 //
 // Created by Lucian Cojocaru on 05.05.2023.
-//
+// 
 // O agenție de turism gestionează N trasee turistice, numerotate de la 1 la N. Pentru a determina cel mai popular traseu au fost analizate ultimele K excursii de pe fiecare traseu. Cel mai popular este considerat traseul, pentru care numărul total de turiști în aceste K excursii este maximal. Datele despre turiști sunt stocate în tabloul T cu N linii și K coloane. Elementul T[i,j] reprezintă numărul de turiști de pe traseul i și excursia j.
 
 //Sarcină: Elaborați un program care determină cel mai popular traseu turistic. Programul va conține un subprogram cu numele NT, care va primi în calitate de parametru un număr întreg i – indicele traseului și va întoarce numărul total de turiști în K excursii pe traseul i.
